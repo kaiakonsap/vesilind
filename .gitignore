@@ -3,7 +3,6 @@ sftp-config.json
 remote-pull.sh
 remote-push.sh
 .htaccess
-wp-content/uploads/*
 wc-logs
 Failid (FTP)/*
 backup_140130/*
