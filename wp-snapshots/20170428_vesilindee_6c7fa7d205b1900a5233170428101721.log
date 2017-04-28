@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-04-28 10:17:28
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.6
+WORDPRESS:	4.7.4
+PHP INFO:	5.4.42 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Unix) PHP/5.4.42 mod_wsgi/3.5 Python/3.5.2 OpenSSL/1.0.1p 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 18.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170428_vesilindee_6c7fa7d205b1900a5233170428101721_database.sql 
+SQL FILE SIZE: 806.21KB (825554) 
+SQL FILE TIME: 2017-04-28 10:17:28 
+SQL RUNTIME: 0.32 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/AMPPS/www/vesilind 
+ARCHIVE FILE: 20170428_vesilindee_6c7fa7d205b1900a5233170428101721_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	48.36MB 
+STATS:	Dirs 284 | Files 2,158 
+SQL ADDED: 20170428_vesilindee_6c7fa7d205b1900a5233170428101721_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2442
+    [filename] => /Applications/AMPPS/www/vesilind/wp-snapshots/tmp/20170428_vesilindee_6c7fa7d205b1900a5233170428101721_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.63MB 
+ARCHIVE RUNTIME: 13.89 sec. 
+MEMORY STACK: 19.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/AMPPS/www/vesilind/wp-snapshots/tmp/20170428_vesilindee_6c7fa7d205b1900a5233170428101721_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 806.21KB 
+Installer File: 422.09KB 
+Archive File: 26.63MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 15.54 sec.
+PEAK PHP MEMORY USED: 21.75MB
+DONE PROCESSING => 20170428_vesilindee 2017-04-28 10:17:43
+ 
